@@ -21,8 +21,9 @@ const RobotoCondensed = Roboto_Condensed({
 })
 
 export const metadata: Metadata = {
-  title: "Justfit",
-  description: "Tienda de Ropa",
+  title: "JUST FIT | Tienda de Ropa Deportiva",
+  description: "Encuentra el mejor estilo fitness con nuestra colección exclusiva.",
+  keywords: ["ropa", "fitness", "gym", "justfit"],
 };
 
 export default function RootLayout({
