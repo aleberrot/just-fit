@@ -18,10 +18,10 @@ export default function Navbar() {
         
         {/* Desktop Links - Centrados */}
         <div className="hidden md:flex space-x-10 text-sm uppercase tracking-widest">
-          <Link href="/" className="hover:text-[#CCFF00] transition-colors">Inicio</Link>
-          <Link href="/hombre" className="hover:text-[#CCFF00] transition-colors">Hombre</Link>
-          <Link href="/mujer" className="hover:text-[#CCFF00] transition-colors">Mujer</Link>
-          <Link href="/contacto" className="hover:text-[#CCFF00] transition-colors">Contacto</Link>
+          <Link href="/" className="hover:text-[#CCFF00] transition-colors hover:underline">Inicio</Link>
+          <Link href="/hombre" className="hover:text-[#CCFF00] transition-colors hover:underline">Hombre</Link>
+          <Link href="/mujer" className="hover:text-[#CCFF00] transition-colors hover:underline">Mujer</Link>
+          <Link href="/contacto" className="hover:text-[#CCFF00] transition-colors hover:underline">Contacto</Link>
         </div>
 
         {/* Carrito e Icono Mobile */}
