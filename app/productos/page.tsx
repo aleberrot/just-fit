@@ -1,11 +1,18 @@
-import Image from "next/image";
+import products from "@/data/products.json";
+import ProductCard from "@/components/ProductCard";
+import { Product } from "@/types/product";
 
-export default function Home() {
-  return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
+export default function HombrePage(){
+    const Products = (products as Product[])
 
-      </main>
-    </div>
-  );
+    return (
+        <main>
+            <h2 className="section-title">Todos</h2>
+            <div className="product-grid">
+                {Products.map((product) => (
+                    <ProductCard key={product.name} product={product} />
+                ))}
+            </div>
+        </main>
+    );
 }
