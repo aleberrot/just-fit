@@ -54,7 +54,7 @@ export default function ContactoPage() {
             </div>
           </div>
 
-          {/* Mapa Ficticio / Imagen */}
+          {/* Mapa Ficticio */}
           <div className="h-64 flex items-center justify-center">
             <iframe 
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3327.425426898708!2d-70.61938742545532!3d-33.490306999552494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662d006eb6d4865%3A0xa821e7eea1660626!2sInacap%20Santiago%20Sur!5e0!3m2!1ses!2scl!4v1778107867370!5m2!1ses!2scl" 

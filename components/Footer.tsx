@@ -19,8 +19,8 @@ export default function Footer(){
                 </Link>
               </li>
               <li>
-                <Link href="/mujeres" className="hover:underline">
-                  Mujeres
+                <Link href="/mujer" className="hover:underline">
+                  Mujer
                 </Link>
               </li>
               <li>
