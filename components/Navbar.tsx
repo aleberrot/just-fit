@@ -3,9 +3,11 @@
 import Link from "next/link";
 import { useState } from "react";
 import { ShoppingCart, Menu, X } from "lucide-react"; 
+import { useCartStore } from "@/store/useCartStore";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
+  const totalItems = useCartStore((state) => state.getTotalItems());
 
   return (
     <nav className="bg-black text-white sticky top-0 z-50 font-roboto">
@@ -28,7 +30,7 @@ export default function Navbar() {
         <div className="flex items-center space-x-5">
           <Link href="/carrito" className="flex items-center space-x-2 group">
             <ShoppingCart className="w-6 h-6 group-hover:text-[#CCFF00] transition-colors" />
-            <span className="text-lg">(0)</span>
+            <span className="text-lg">({totalItems})</span>
           </Link>
           
           {/* Mobile Menu Button */}

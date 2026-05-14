@@ -1,5 +1,6 @@
 [
   {
+    "id": "polera-dryfit-essential-hombre",
     "name": "Polera DryFit Essential Hombre",
     "price": 14990,
     "image": "/img/polera.jpeg",
@@ -8,6 +9,7 @@
     "description": "Polera ligera y respirable para entrenamiento diario."
   },
   {
+    "id": "polera-performance-azul-hombre",
     "name": "Polera Performance Azul Hombre",
     "price": 15990,
     "image": "/img/polera.jpeg",
@@ -16,6 +18,7 @@
     "description": "Polera de secado rapido ideal para rutinas intensas."
   },
   {
+    "id": "polera-core-manga-larga-hombre",
     "name": "Polera Core Manga Larga Hombre",
     "price": 19990,
     "image": "/img/polera.jpeg",
@@ -24,6 +27,7 @@
     "description": "Polera de manga larga con tela suave y respirable."
   },
   {
+    "id": "short-training-flex-hombre",
     "name": "Short Training Flex Hombre",
     "price": 17990,
     "image": "/img/short.jpeg",
@@ -32,6 +36,7 @@
     "description": "Short elasticado con calce comodo para gimnasio y running."
   },
   {
+    "id": "short-running-pro-hombre",
     "name": "Short Running Pro Hombre",
     "price": 21990,
     "image": "/img/short.jpeg",
@@ -40,6 +45,7 @@
     "description": "Short liviano con bolsillo lateral para entrenamientos al aire libre."
   },
   {
+    "id": "short-classic-gym-hombre",
     "name": "Short Classic Gym Hombre",
     "price": 16990,
     "image": "/img/short.jpeg",
@@ -48,6 +54,7 @@
     "description": "Short comodo de corte clasico para uso diario y gimnasio."
   },
   {
+    "id": "buzo-urban-fit-hombre",
     "name": "Buzo Urban Fit Hombre",
     "price": 32990,
     "image": "/img/buzo.jpeg",
@@ -56,6 +63,7 @@
     "description": "Buzo suave de corte moderno para entrenar o uso casual."
   },
   {
+    "id": "buzo-jogger-tech-hombre",
     "name": "Buzo Jogger Tech Hombre",
     "price": 36990,
     "image": "/img/buzo.jpeg",
@@ -64,6 +72,7 @@
     "description": "Buzo tipo jogger con pretina ajustable y puños elasticados."
   },
   {
+    "id": "buzo-full-comfort-hombre",
     "name": "Buzo Full Comfort Hombre",
     "price": 39990,
     "image": "/img/buzo.jpeg",
@@ -72,6 +81,7 @@
     "description": "Conjunto deportivo abrigado para entrenar en dias frios."
   },
   {
+    "id": "polera-active-soft-mujer",
     "name": "Polera Active Soft Mujer",
     "price": 13990,
     "image": "/img/polera.jpeg",
@@ -80,6 +90,7 @@
     "description": "Polera fresca y suave para rutinas de baja y media intensidad."
   },
   {
+    "id": "polera-training-crop-mujer",
     "name": "Polera Training Crop Mujer",
     "price": 16990,
     "image": "/img/polera.jpeg",
@@ -88,6 +99,7 @@
     "description": "Polera corta de calce moderno para entrenamiento funcional."
   },
   {
+    "id": "polera-seamless-fit-mujer",
     "name": "Polera Seamless Fit Mujer",
     "price": 18990,
     "image": "/img/polera.jpeg",
@@ -96,6 +108,7 @@
     "description": "Polera sin costuras visibles con ajuste suave al cuerpo."
   },
   {
+    "id": "short-move-high-rise-mujer",
     "name": "Short Move High Rise Mujer",
     "price": 18990,
     "image": "/img/short.jpeg",
@@ -104,6 +117,7 @@
     "description": "Short de tiro alto con tela flexible y secado rapido."
   },
   {
+    "id": "short-biker-energy-mujer",
     "name": "Short Biker Energy Mujer",
     "price": 21990,
     "image": "/img/short.jpeg",
@@ -112,6 +126,7 @@
     "description": "Short biker elasticado con pretina alta y soporte firme."
   },
   {
+    "id": "short-fresh-run-mujer",
     "name": "Short Fresh Run Mujer",
     "price": 17990,
     "image": "/img/short.jpeg",
@@ -120,6 +135,7 @@
     "description": "Short liviano para correr con libertad de movimiento."
   },
   {
+    "id": "buzo-cozy-fit-mujer",
     "name": "Buzo Cozy Fit Mujer",
     "price": 34990,
     "image": "/img/buzo.jpeg",
@@ -128,6 +144,7 @@
     "description": "Buzo abrigado con calce relajado para entrenar o descansar."
   },
   {
+    "id": "buzo-jogger-soft-mujer",
     "name": "Buzo Jogger Soft Mujer",
     "price": 35990,
     "image": "/img/buzo.jpeg",
@@ -136,6 +153,7 @@
     "description": "Buzo jogger suave con calce comodo para uso diario."
   },
   {
+    "id": "buzo-warm-up-mujer",
     "name": "Buzo Warm Up Mujer",
     "price": 38990,
     "image": "/img/buzo.jpeg",
@@ -144,6 +162,7 @@
     "description": "Buzo abrigado pensado para calentamientos y dias frios."
   },
   {
+    "id": "poleron-oversize-training-hombre",
     "name": "Poleron Oversize Training Hombre",
     "price": 29990,
     "image": "/img/buzo.jpeg",
@@ -152,6 +171,7 @@
     "description": "Poleron amplio con interior suave para calentamiento y post entrenamiento."
   },
   {
+    "id": "poleron-zip-active-hombre",
     "name": "Poleron Zip Active Hombre",
     "price": 31990,
     "image": "/img/buzo.jpeg",
@@ -160,6 +180,7 @@
     "description": "Poleron con cierre frontal y bolsillos para entrenar o salir."
   },
   {
+    "id": "poleron-hoodie-motion-hombre",
     "name": "Poleron Hoodie Motion Hombre",
     "price": 28990,
     "image": "/img/buzo.jpeg",
@@ -168,6 +189,7 @@
     "description": "Hoodie deportivo con capucha ajustable e interior suave."
   },
   {
+    "id": "calza-sculpt-seamless-mujer",
     "name": "Calza Sculpt Seamless Mujer",
     "price": 24990,
     "image": "/img/short.jpeg",
@@ -176,6 +198,7 @@
     "description": "Calza elasticada con soporte firme y pretina alta."
   },
   {
+    "id": "calza-power-legging-mujer",
     "name": "Calza Power Legging Mujer",
     "price": 26990,
     "image": "/img/short.jpeg",
@@ -184,6 +207,7 @@
     "description": "Calza de compresion media para entrenamiento de fuerza."
   },
   {
+    "id": "calza-everyday-fit-mujer",
     "name": "Calza Everyday Fit Mujer",
     "price": 22990,
     "image": "/img/short.jpeg",
@@ -192,6 +216,7 @@
     "description": "Calza comoda para yoga, caminatas y actividades diarias."
   },
   {
+    "id": "top-deportivo-balance-mujer",
     "name": "Top Deportivo Balance Mujer",
     "price": 19990,
     "image": "/img/polera.jpeg",
@@ -200,6 +225,7 @@
     "description": "Top de soporte medio para entrenamientos de impacto moderado."
   },
   {
+    "id": "top-deportivo-impact-mujer",
     "name": "Top Deportivo Impact Mujer",
     "price": 22990,
     "image": "/img/polera.jpeg",
@@ -208,6 +234,7 @@
     "description": "Top firme y respirable para sesiones de alta intensidad."
   },
   {
+    "id": "pantalon-training-slim-hombre",
     "name": "Pantalon Training Slim Hombre",
     "price": 27990,
     "image": "/img/buzo.jpeg",
@@ -216,6 +243,7 @@
     "description": "Pantalon deportivo ajustado con tela flexible y bolsillos."
   },
   {
+    "id": "pantalon-cargo-sport-hombre",
     "name": "Pantalon Cargo Sport Hombre",
     "price": 29990,
     "image": "/img/buzo.jpeg",
@@ -224,6 +252,7 @@
     "description": "Pantalon cargo liviano para entrenamiento y uso casual."
   },
   {
+    "id": "chaqueta-windbreaker-hombre",
     "name": "Chaqueta Windbreaker Hombre",
     "price": 42990,
     "image": "/img/buzo.jpeg",
@@ -232,6 +261,7 @@
     "description": "Chaqueta liviana para proteger del viento durante actividades outdoor."
   },
   {
+    "id": "chaqueta-light-run-mujer",
     "name": "Chaqueta Light Run Mujer",
     "price": 41990,
     "image": "/img/buzo.jpeg",
@@ -240,6 +270,7 @@
     "description": "Chaqueta ligera con calce comodo para running y caminatas."
   },
   {
+    "id": "poleron-oversize-soft-mujer",
     "name": "Poleron Oversize Soft Mujer",
     "price": 30990,
     "image": "/img/buzo.jpeg",
